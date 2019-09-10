@@ -1,0 +1,20 @@
+{
+  "name": "hackernews-node-graphql",
+  "version": "1.0.0",
+  "description": "hackernews clone using graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekchitransh/hackernews-node-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekchitransh/hackernews-node-graphql/issues"
+  },
+  "homepage": "https://github.com/abhishekchitransh/hackernews-node-graphql#readme"
+}
