@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/abhishekchitransh/hackernews-node-graphql/issues"
   },
-  "homepage": "https://github.com/abhishekchitransh/hackernews-node-graphql#readme"
+  "homepage": "https://github.com/abhishekchitransh/hackernews-node-graphql#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
 }
