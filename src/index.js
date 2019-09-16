@@ -7,12 +7,6 @@ let links = [{
   url: 'www.howtographql.com',
   description: 'Fullstack tutorial for GraphQL'
 }]
-
-let links = [{
-  id: 'link-0',
-  url: 'www.howtographql.com',
-  description: 'Fullstack tutorial for GraphQL'
-}]
 // 1
 let idCount = links.length
 const resolvers = {
